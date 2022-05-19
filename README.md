@@ -1,4 +1,5 @@
 # COGS118A Project template
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/COGS118A/Group028-Sp22.git/HEAD)
 This is your group repo for your final project for COGS118A
 
 This repository is publicly visible! We will be using that feature to do peer review of projects.
