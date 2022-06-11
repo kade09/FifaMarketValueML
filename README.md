@@ -1,5 +1,7 @@
 # COGS118A Project template
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/COGS118A/Group028-Sp22.git/HEAD)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/COGS118A/Group028-Sp22) 
+
 This is your group repo for your final project for COGS118A
 
 This repository is publicly visible! We will be using that feature to do peer review of projects.
@@ -9,5 +11,3 @@ Template notebooks for each component are provided. Only work on the notebook pr
 This is your repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all.
 
 Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
-
-Link to [project PDF](rel/FinalProject_group028.pdf). 
