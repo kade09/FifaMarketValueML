@@ -3,7 +3,7 @@
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/COGS118A/Group028-Sp22) 
 
 
-This was a group Project for COGS 118A at UCSD.
+This was a group Project for COGS 118A at UCSD. Final version available in FinalProject_group028.ipynb branch
 
 Description:
 
